@@ -46,11 +46,11 @@ ex) 나이, 주소, 아이디, 비밀번호 등
 <img src="11relation.png">
 <h2 style="font-weight: bold">1:N 관계</h2>
 - 하나의 원소가 두 개 이상의 원소와 관계를 맺는 것 <br>
-<img src="1nrelation.png">
+<img src="1Nrelation.png">
 <h2 style="font-weight: bold">N:M 관계</h2>
 - 양쪽 모두 하나 이상 연관될 수 있는 관계<br>
 * N:M 관계는 중간 테이블을 생성하여 1:N 과 1:M 관계로 변환
-<img src="nmrelation.png">
+<img src="NMrelation.png">
 </blockquote>
 
 # 정규화
